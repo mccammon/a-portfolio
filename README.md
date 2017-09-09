@@ -1,2 +1,2 @@
 # a-portfolio
-A serverless node portfolio
+A serverless node portfolio using AWS and ReactJS.
